@@ -1,0 +1,18 @@
+{
+  "name": "cryptostars",
+  "version": "1.0.0",
+  "description": "A marketplace to claim and exchange stars.",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "4.3.2",
+    "truffle-hdwallet-provider": "^1.0.6"
+  }
+}
